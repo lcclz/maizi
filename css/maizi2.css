@@ -1,0 +1,40 @@
+body {
+  font-family: "微软雅黑";
+}
+.progress {
+  margin-bottom: 4px;
+}
+.wh64 {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+}
+.mar_t {
+  margin-top: 15px;
+}
+.pad {
+  padding: 0;
+}
+.page-header {
+  margin-top: 0;
+}
+.page-header h1 {
+  font-size: 16px;
+  margin: 0;
+}
+.user_search {
+  padding: 10px;
+  border: solid 1px #DDDDDD;
+  border-top: none;
+}
+.taglist {
+  padding-top: 15px;
+}
+.taglist .alert {
+  margin: 0 15px 15px 0;
+}
+footer {
+  font-weight: 400px;
+  text-align: center;
+  padding: 20px;
+}
